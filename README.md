@@ -142,6 +142,7 @@ All settings via environment variables:
 | [`go-llm-smart-cache`](https://github.com/DennisMRitchie/go-llm-smart-cache) | Semantic caching layer for LLM responses |
 | [`go-llm-rag-pipeline`](https://github.com/DennisMRitchie/go-llm-rag-pipeline) | Production RAG pipeline with vector search |
 | [`go-nlp-text-pipeline`](https://github.com/DennisMRitchie/go-nlp-text-pipeline) | NLP text processing and analysis pipeline |
+| [`go-nlp-service`](https://github.com/DennisMRitchie/go-nlp-service) | Production-ready NLP microservice in Go |
 
 Together these form a production-ready **Go LLM stack**.
 

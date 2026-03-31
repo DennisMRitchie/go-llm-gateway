@@ -136,8 +136,12 @@ All settings via environment variables:
 
 ## 🔗 Related Projects
 
-- [`go-rag-llm-orchestrator`](https://github.com/DennisMRitchie/go-rag-llm-orchestrator) — RAG pipeline
-- [`go-llm-smart-cache`](https://github.com/DennisMRitchie/go-llm-smart-cache) — Semantic caching layer
+| Project | Description |
+|---|---|
+| [`go-rag-llm-orchestrator`](https://github.com/DennisMRitchie/go-rag-llm-orchestrator) | RAG pipeline — retrieval-augmented generation |
+| [`go-llm-smart-cache`](https://github.com/DennisMRitchie/go-llm-smart-cache) | Semantic caching layer for LLM responses |
+| [`go-llm-rag-pipeline`](https://github.com/DennisMRitchie/go-llm-rag-pipeline) | Production RAG pipeline with vector search |
+| [`go-nlp-text-pipeline`](https://github.com/DennisMRitchie/go-nlp-text-pipeline) | NLP text processing and analysis pipeline |
 
 Together these form a production-ready **Go LLM stack**.
 
